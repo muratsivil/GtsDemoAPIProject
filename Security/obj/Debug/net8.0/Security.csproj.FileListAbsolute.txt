@@ -1,0 +1,12 @@
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/bin/Debug/net8.0/Security.deps.json
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/bin/Debug/net8.0/Security.dll
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/bin/Debug/net8.0/Security.pdb
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/obj/Debug/net8.0/Security.csproj.AssemblyReference.cache
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/obj/Debug/net8.0/Security.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/obj/Debug/net8.0/Security.AssemblyInfoInputs.cache
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/obj/Debug/net8.0/Security.AssemblyInfo.cs
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/obj/Debug/net8.0/Security.csproj.CoreCompileInputs.cache
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/obj/Debug/net8.0/Security.dll
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/obj/Debug/net8.0/refint/Security.dll
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/obj/Debug/net8.0/Security.pdb
+/Users/muratsivil/Projects/GTSDemo/GtsDemoAPIProject/Security/obj/Debug/net8.0/ref/Security.dll
