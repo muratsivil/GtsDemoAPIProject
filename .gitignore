@@ -1,0 +1,11 @@
+Application/obj
+Application/bin
+Persistence/obj
+Persistence/bin
+Domain/obj
+Domain/bin
+Security/obj
+Security/bin
+GtsDemoAPI/obj
+GtsDemoAPI/bin
+/obj
